@@ -1,4 +1,4 @@
-module main.go
+module github.com/Agungthebesttop/synapseapp
 
 go 1.17
 
