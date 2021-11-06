@@ -1,8 +1,8 @@
 package main
 
-import "github.com/Agungthebesttop/synapsemodule"
+import synapsemodule "github.com/Agungthebesttop/synapsemodule"
 
 func main() {
 
-	synapsemodule.PenjumlahanGreeting(15)
+	synapsemodule.Greeting(15)
 }
